@@ -1,0 +1,26 @@
+**pycache**/
+*.pyc
+*.pyo
+*.log
+.env
+.vscode/
+.idea/
+
+# Python virtual environments
+
+venv/
+.venv/
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Power BI temporary/backup files
+
+~$*.pbix
+
+# OS files
+
+.DS_Store
+Thumbs.db
