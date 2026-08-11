@@ -184,15 +184,15 @@ Focuses on vendor-level analysis including:
 
 
 
-!\[Sales Overview](dashboard/page1\_sales\_overview.png)
+![Sales Overview](https://raw.githubusercontent.com/sachinchauhan32/vendor-performance-analysis/main/dashboard/page1_sales_overview.png)
+
 
 
 
 \### Vendor Performance
 
 
-
-!\[Vendor Performance](dashboard/page2\_vendor\_analysis.png)
+![Vendor Performance](https://raw.githubusercontent.com/sachinchauhan32/vendor-performance-analysis/main/dashboard/page2_vendor_analysis.png)
 
 
 
